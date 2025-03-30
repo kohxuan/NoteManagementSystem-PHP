@@ -1,6 +1,6 @@
 # 📝 Note Management System
 The **Note Management System** is a web-based application designed to allow users to create, manage, and delete notes efficiently. This project utilizes PHP, MySQL, and Bootstrap to provide a user-friendly interface for note management.
-<br>
+<br><br>
 
 ### ✨ Features
 - **Create Notes**: Users can create notes with a title, content, and customizable background color.
